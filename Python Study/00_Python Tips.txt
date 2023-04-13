@@ -1,0 +1,58 @@
+----------------------------------------------------------------------------
+
+[ 01. Python 데이터 타입에 관한 비교 ]
+
+https://cording-artist.tistory.com/124
+-> Tuple / Set / List / Dict
+
+List : [ 대 괄호 ]
+Tuple : ( 소 괄호 )
+Set : { 중 괄호 }
+Dict : [ 데이터는 대괄호 ]
+
+Dict의 Item은 [ (key:value) ]형태로 추출 -> List 안의 Tuple
+
+----------------------------------------------------------------------------
+
+[ 02. Python의 Module에 관한 이야기 ]
+
+https://wikidocs.net/29 - 모듈이란 무엇인가?
+http://seorenn.blogspot.com/2011/05/python-copy.html - Copy 모듈에 관하여
+
+Module은 함수나 변수 또는 클래스를 모아 놓은 파이썬 파일,  다른 파이썬 프로그램에서 불러와 사용할 수 있게끔 만든 파이썬 파일이다.
+-> 직접 만들 수도 있고, 남이 만든 것을 불러올 수도 있다.
+
+----------------------------------------------------------------------------
+
+[ 03. Object - Instance / Parameter - Argument ]
+https://hvyair.tistory.com/19
+
+Before 정의 / Object : 객체, Parameter : 매개변수 
+After 정의 / Instance : 사례 (정의된 함수), Argument : 인수(정의된 함수에 넣어진 값)
+
+
+-> 코드에서 만들어진 something은 객체이며, something이라는 객체는 ex_class()의 인스턴스  / Object는 대명사, Instance는 명사
+
+-> 함수를 정의할 때 example(x, y) 또는 example(int x, int y)에서 x, y는 example() 메서드가 동작하기 위한 매개변수(Parameter)라고 한다. / Parameter는 대명사, Argumemt는 명사
+
+-> example 메서드를 호출하여 사용할 때에 example(10, 20)과 같이 작성하는 경우 10과 20은 함수 호출 시 사용되는 인자, 즉 아규먼트(Argument)라고 한다.
+
+-> OP-IA로 외우기
+
+----------------------------------------------------------------------------
+
+[ 04. URL의 구조 ]
+
+https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL - URL 이란?
+
+-> URL : Uniform Resource Locators
+-> URL은 Protocol(Scheme) / Host(Athority=Domain) : Port Number -> 홈페이지 url의 구성요소 
+-> 추가적으로 Path ro Resource / Parameter / Anchor -> 홈페이지 안의 세부 구성요소
+
+----------------------------------------------------------------------------
+
+[ 05. input 메소드 ]
+
+https://www.codingfactory.net/10085 -> input method의 사용법.
+-> input method는 기본적으로 입력된 값이 String(문자열)로 입력되기 때문에, 출력할 시 출력 type를 정해주는 것이 필요함.
