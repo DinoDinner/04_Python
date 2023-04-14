@@ -1,0 +1,24 @@
+custom vision 이미지 교육을 스스로 시켜야함
+예측 predict
+학습 training
+
+Project Types
+classification : 고양이 or 개 구분만하는것
+object detection : 요소들을 찾아냄
+
+classification Types
+Multilabel : tag를 여러개 붙임
+Multi Class : tag를 하나씩 붙임
+
+Domains
+교육이미지의 대상 특징
+Retail : 학습결과물을 작게 만드는 것
+
+Recall : 재현율 -> 어느정도 쓸만한 정도인지?
+
+인증과 권한은 다름
+
+인증은 시스템에 들어올 수 있는가?
+Authetication
+권한은 시스템의 기능을 사용할 수 있는가?
+Commition
