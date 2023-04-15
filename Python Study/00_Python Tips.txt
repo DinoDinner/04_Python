@@ -68,7 +68,7 @@ from math import *
 def girls_who_want_me(*args): 
     print(args)
 -> *args는 인자의 개수를 한정하지 않겠다는 뜻이다.
--> **kwargs (keyword argments) 딕셔너리 형식으로 인자를 넣고 싶다면 이걸 사용!
+-> **kwargs (keyword argments) Dictionary 형식으로 인자를 넣고 싶다면 이걸 사용!
 
 
 print(...)
@@ -78,3 +78,9 @@ print(...)
 
 [ 07.Pass문 ]
 https://rfriend.tistory.com/370 -> 함수나 클래스의 구현을 미룰 때 쓰는 Pass문
+
+----------------------------------------------------------------------------
+
+[ 08. Class의 속성]
+
+https://076923.github.io/posts/Python-37/ -> Class의 Attribute(속성)과 Instance(인자)의 차이
