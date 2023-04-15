@@ -56,3 +56,25 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Wh
 
 https://www.codingfactory.net/10085 -> input method의 사용법.
 -> input method는 기본적으로 입력된 값이 String(문자열)로 입력되기 때문에, 출력할 시 출력 type를 정해주는 것이 필요함.
+
+----------------------------------------------------------------------------
+
+[ 06. Python 기호 정리 ]
+https://modulabs.co.kr/blog/python-strangethings/
+
+from math import * 
+-> * 는 모든 것을 뜻한다. math 라이브러리 에서 모든 메소드를 불러온다.
+
+def girls_who_want_me(*args): 
+    print(args)
+-> *args는 인자의 개수를 한정하지 않겠다는 뜻이다.
+-> **kwargs (keyword argments) 딕셔너리 형식으로 인자를 넣고 싶다면 이걸 사용!
+
+
+print(...)
+>>> Ellipsis
+-> ... 은 Ellipsis라는 생략 부호로 쓰인다.
+----------------------------------------------------------------------------
+
+[ 07.Pass문 ]
+https://rfriend.tistory.com/370 -> 함수나 클래스의 구현을 미룰 때 쓰는 Pass문
