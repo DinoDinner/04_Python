@@ -84,3 +84,13 @@ https://rfriend.tistory.com/370 -> 함수나 클래스의 구현을 미룰 때 �
 [ 08. Class의 속성]
 
 https://076923.github.io/posts/Python-37/ -> Class의 Attribute(속성)과 Instance(인자)의 차이
+
+----------------------------------------------------------------------------
+
+[ 09. Package와 Module의 차이]
+
+https://blog-of-gon.tistory.com/223?category=864375
+
+-> Package는 Module의 묶음이다!, 여러개의 Module을 묶어 놓은 더미
+
+----------------------------------------------------------------------------

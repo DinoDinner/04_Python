@@ -1,4 +1,4 @@
-custom vision 이미지 교육을 스스로 시켜야함
+Custom Vision 이미지 교육을 스스로 시켜야함 = Custom 해야함..!
 예측 predict
 학습 training
 
